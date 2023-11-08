@@ -1,0 +1,18 @@
+.buttonContainer {
+  display: flex;
+  gap: 20px;
+}
+.btn {
+  text-transform: capitalize;
+  width: 100px;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.btn:hover {
+  background-color: #10673a;
+  color: aliceblue;
+}
